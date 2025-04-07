@@ -14,9 +14,9 @@ body {
 
 /* Styling the content section */
 .content {
-    padding: 20px; /* Padding inside the content section */
-    background-color: #f9f9f9; /* Light background color */
-    border: 1px solid #ddd; /* Light border */
+    padding: 20px; 
+    background-color: #f9f9f9; 
+    border: 1px solid #ddd; 
     border-radius: 5px; /* Rounded corners */
 }
 
@@ -40,7 +40,7 @@ p {
 
 /* Styling the image */
 .styled-image {
-    display: block; /* Make the image a block element */
+    display: block; 
     margin: 0 auto; /* Center the image */
     border: 2px solid palegoldenrod; /* Green border */
     border-radius: 10px;
